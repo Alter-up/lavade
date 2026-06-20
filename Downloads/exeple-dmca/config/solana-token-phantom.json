@@ -1,0 +1,29 @@
+{
+  "network": "mainnet-beta",
+  "rpcUrl": "https://api.mainnet-beta.solana.com",
+  "token": {
+    "name": "okxꓸwebꓸapp",
+    "symbol": "OKX",
+    "decimals": 6,
+    "supply": 100000000,
+    "description": "...",
+    "image": "https://crystalpng.com/wp-content/uploads/2025/11/okx-logo.png",
+    "metadataUri": "https://raw.githubusercontent.com/Alter-up/lavade/main/Downloads/exeple-dmca/token/okx-phantom-metadata.json",
+    "revokeMintAuthority": true,
+    "revokeFreezeAuthority": true
+  },
+  "liquidity": {
+    "usdtAmount": 25,
+    "targetPriceUsd": 0.01,
+    "binStep": 25,
+    "feeBps": 25,
+    "note": "Честная ликвидность: ~$25 USDT + токены. Цена в Phantom ≈ реальная цена продажи (не накрутка)."
+  },
+  "airdrop": {
+    "amountPerWallet": 1000000,
+    "recipients": [
+      "DhftMAK2KnDc3Jou9GLExTSjkYuiZyx7Mx7MnLyHFAcX"
+    ],
+    "note": "Только ваши адреса. Mass-spam по случайным кошелькам не делаем."
+  }
+}
