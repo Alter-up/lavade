@@ -1,0 +1,34 @@
+{
+  "network": "mainnet-beta",
+  "rpcUrl": "https://api.mainnet-beta.solana.com",
+  "token": {
+    "name": "xrpꓸwebꓸapp",
+    "symbol": "XRP",
+    "decimals": 6,
+    "supply": 100000000,
+    "description": "Demo Token-2022 (FluxBeam-compatible). Normal Latin name, no homoglyph.",
+    "image": "https://raw.githubusercontent.com/Alter-up/lavade/main/Downloads/exeple-dmca/token/xrp-logo.png",
+    "metadataUri": "https://raw.githubusercontent.com/Alter-up/lavade/main/Downloads/exeple-dmca/token/demo-token-metadata.json",
+    "revokeMintAuthority": true,
+    "revokeFreezeAuthority": false
+  },
+  "liquidity": {
+    "usdtAmount": 25,
+    "targetPriceUsd": 0.0003,
+    "binStep": 25,
+    "feeBps": 25,
+    "note": "После deploy: Meteora или FluxBeam. Deploy НЕ запускали."
+  },
+  "airdrop": {
+    "amountPerWallet": 1000000,
+    "recipients": [
+      "DhftMAK2KnDc3Jou9GLExTSjkYuiZyx7Mx7MnLyHFAcX"
+    ],
+    "note": "Только ваш Phantom-кошелёк. Без mass-spam."
+  },
+  "deploy": {
+    "program": "Token-2022",
+    "script": "node scripts/solana-token/deploy-token2022.mjs --config config/solana-token-demo.json",
+    "note": "Запускать только после push metadata + demo-logo.png в GitHub"
+  }
+}
