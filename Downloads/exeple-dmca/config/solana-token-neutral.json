@@ -1,0 +1,20 @@
+{
+  "network": "mainnet-beta",
+  "rpcUrl": "https://api.mainnet-beta.solana.com",
+  "token": {
+    "name": "DemoꓸToken",
+    "symbol": "DMTK",
+    "decimals": 6,
+    "supply": 2500,
+    "description": "Neutral test token. Not affiliated with any exchange or chain.",
+    "image": "https://raw.githubusercontent.com/Alter-up/lavade/main/Downloads/exeple-dmca/token/demo-logo.png",
+    "metadataUri": "https://raw.githubusercontent.com/Alter-up/lavade/main/Downloads/exeple-dmca/token/neutral-token-metadata.json",
+    "revokeMintAuthority": true,
+    "revokeFreezeAuthority": true
+  },
+  "airdrop": {
+    "amountPerWallet": 100,
+    "recipients": [],
+    "note": "Recipients empty by default."
+  }
+}
