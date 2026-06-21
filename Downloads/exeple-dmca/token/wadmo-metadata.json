@@ -1,0 +1,16 @@
+{
+  "name": "WADMO",
+  "symbol": "WADMO",
+  "description": "WADMO token on Solana.",
+  "image": "https://raw.githubusercontent.com/Alter-up/lavade/main/Downloads/exeple-dmca/token/wadmo-logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Alter-up/lavade/main/Downloads/exeple-dmca/token/wadmo-logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "network": "mainnet-beta",
+  "mint": "9m15VnTdXZ1HzsKEKK7WGa4ESfzu5vVVbab5zoEBR3ja",
+  "metadata": "3SCi8LyzaCaLE2PLYDvyMwj9kuu1hXmjHw8YwkFcxhVb",
+  "tokenAccount": "FnNra9bdxiXoPizvj7xG37CeUhVQorTAeUF3VNP1aVq6",
+  "owner": "73QdPBXstqH9hSYu11GhfzfF8mHm9NDzNPHSf1DnczV7",
+  "name": "WADMO",
+  "symbol": "WADMO",
+  "decimals": 6,
+  "supply": 100000000,
+  "metadataUri": "https://raw.githubusercontent.com/Alter-up/lavade/main/Downloads/exeple-dmca/token/wadmo-metadata.json",
+  "solscan": "https://solscan.io/token/9m15VnTdXZ1HzsKEKK7WGa4ESfzu5vVVbab5zoEBR3ja"
+}

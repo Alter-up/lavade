@@ -1,0 +1,10 @@
+{
+  "network": "mainnet-beta",
+  "rpcUrl": "https://api.mainnet-beta.solana.com",
+  "token": {
+    "name": "WADMO",
+    "symbol": "WADMO",
+    "decimals": 6,
+    "metadataUri": "https://raw.githubusercontent.com/Alter-up/lavade/main/Downloads/exeple-dmca/token/wadmo-metadata.json"
+  }
+}
