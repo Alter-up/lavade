@@ -1,13 +1,13 @@
 {
   "name": "okxꓸwebꓸapp",
   "symbol": "OKX",
-  "description": "Solana SPL token.",
-  "image": "https://raw.githubusercontent.com/Alter-up/lavade/main/Downloads/exeple-dmca/token/okx-logo.png",
+  "description": "...",
+  "image": "https://crystalpng.com/wp-content/uploads/2025/11/okx-logo.png",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/Alter-up/lavade/main/Downloads/exeple-dmca/token/okx-logo.png",
+        "uri": "https://crystalpng.com/wp-content/uploads/2025/11/okx-logo.png",
         "type": "image/png"
       }
     ],
