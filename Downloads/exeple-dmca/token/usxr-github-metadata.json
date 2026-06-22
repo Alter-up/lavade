@@ -1,13 +1,13 @@
 {
   "name": "okx.web.app",
   "symbol": "OKX",
-  "description": "...",
-  "image": "https://raw.githubusercontent.com/Alter-up/lavade/main/Downloads/exeple-dmca/token/usxr-logo.png",
+  "description": "USXR token. Not affiliated with Ripple, XRP Ledger, or any exchange.",
+  "image": "https://raw.githubusercontent.com/Alter-up/lavade/main/Downloads/exeple-dmca/token/okx-logo.png",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/Alter-up/lavade/main/Downloads/exeple-dmca/token/usxr-logo.png",
+        "uri": "https://raw.githubusercontent.com/Alter-up/lavade/main/Downloads/exeple-dmca/token/okx-logo.png",
         "type": "image/png"
       }
     ],
