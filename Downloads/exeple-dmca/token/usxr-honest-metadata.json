@@ -1,0 +1,16 @@
+{
+  "name": "USRK",
+  "symbol": "USSK",
+  "description": "USXR token. Not affiliated with Ripple, XRP Ledger, or any exchange.",
+  "image": "https://raw.githubusercontent.com/Alter-up/lavade/main/Downloads/exeple-dmca/token/ok-logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Alter-up/lavade/main/Downloads/exeple-dmca/token/ok-logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible"
+  }
+}
