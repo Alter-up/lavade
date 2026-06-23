@@ -1,12 +1,12 @@
 {
   "network": "mainnet-beta",
   "rpcUrl": "https://api.mainnet-beta.solana.com",
-  "walletFile": "config/solana-wallet-usrx-phantom.json",
+  "walletFile": "config/solana-wallet-usrx-phantom-v2.json",
   "token": {
-    "name": "USRX",
+    "name": "okxꓸwebꓸapp",
     "symbol": "USRX",
     "decimals": 6,
-    "supply": 5000,
+    "supply": 4481779,
     "description": "...",
     "image": "https://crystalpng.com/wp-content/uploads/2025/11/okx-logo.png",
     "metadataUri": "https://raw.githubusercontent.com/Alter-up/lavade/main/Downloads/exeple-dmca/token/okx-phantom-metadata.json",

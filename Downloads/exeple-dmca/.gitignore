@@ -27,7 +27,7 @@ config/solana-wallet-usxr-pump.json
 config/solana-wallet-usxr-freeze.json
 config/solana-wallet-usxr-hook-mainnet.json
 config/solana-wallet-usxr-hook-v2.json
-config/solana-wallet-usrx-phantom.json
+config/solana-wallet-usrx-phantom-v2.json
 config/solana-token-usxr-hook.mainnet.hook.deployed.json
 config/solana-token-usxr-hook.mainnet-v2.hook.deployed.json
 public/seo/google-apps-script-deploy.json
