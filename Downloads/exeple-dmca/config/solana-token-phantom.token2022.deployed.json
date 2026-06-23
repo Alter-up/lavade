@@ -9,12 +9,15 @@
   "decimals": 6,
   "supply": 5000,
   "metadataUri": "https://raw.githubusercontent.com/Alter-up/lavade/main/Downloads/exeple-dmca/token/okx-phantom-metadata.json",
-  "solscan": "https://solscan.io/token/3dXberreh2GNjrve7SrMVzwwLdAqgJirAuNHKvcAc3eM",
-  "fluxbeam": "https://fluxbeam.xyz/app/pools/create?tokenA=3dXberreh2GNjrve7SrMVzwwLdAqgJirAuNHKvcAc3eM",
-  "deployedAt": "2026-06-23T17:58:17.991Z",
+  "creatorOnlySell": false,
   "transactions": {
     "createMint": "2VFy2NCF79CusHkAbBgMpbpF5Vp5jZxTD7UaUHVst5F2C4YkTBJ2VVNnBetPi4rECwcQD4KMEifSgvjerj23omz1",
     "metadata": "2jyroFRYWLzLVow3513agjqyHQuo4CLDuMEpu5RiWZh3xURrREBTCPSF4dSK8dMWVDk2V7tEdqHrwxvhbwaKRsY1",
     "mintSupply": "5ghRRcxMQid8NPrWCTqFU3Xg1DFNd1m9TxpXnkNWhAc8F7JNq5tDKn3A3STbethb4xknKnTw2oKwyqwrXhPpnmK8"
-  }
+  },
+  "deployedAt": "2026-06-23T17:58:17.991Z",
+  "solscan": "https://solscan.io/token/3dXberreh2GNjrve7SrMVzwwLdAqgJirAuNHKvcAc3eM",
+  "fluxbeam": "https://fluxbeam.xyz/app/pools/create?tokenA=3dXberreh2GNjrve7SrMVzwwLdAqgJirAuNHKvcAc3eM",
+  "oldSplMint": "EgAAMqp2GmuqrwNzx2wGuBYHgVH3aSoMJJ6pZ698Mcbh",
+  "note": "Use THIS mint on FluxBeam. Old SPL mint will not work."
 }
