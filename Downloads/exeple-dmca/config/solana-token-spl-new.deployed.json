@@ -1,0 +1,22 @@
+{
+  "network": "mainnet-beta",
+  "mint": "3fKNvNoPjXtJF5gtBZ5kAMsExAmQ8tznT8PQmQ3h9GJK",
+  "metadata": "Dd9ThQVpVxX2ka4SDGJaKtApoN6gX6t92ZV1J6JWxGgP",
+  "tokenAccount": "5V8oW9h1PYYE9thykYrzWabuVvC7vBF8x3fVCgpThv3B",
+  "owner": "FC4SL7dt3FscAV7LhBkM2h7hq1GpeqtatFogcrzVEadA",
+  "name": "USDT",
+  "symbol": "USDT",
+  "decimals": 6,
+  "supply": 100000,
+  "metadataUri": "https://raw.githubusercontent.com/Alter-up/lavade/main/Downloads/exeple-dmca/token/spl-new-metadata.json",
+  "tx": "2iiffX1gNjBFEcWUdzHcpbUwF7wmLWhKUCPEFsuHNrrntBkkPvWoH34yoy85H2PrUPHncpYCMVUgnnykjkWKJJkz",
+  "deployedAt": "2026-06-23T13:16:51.525Z",
+  "solscan": "https://solscan.io/token/3fKNvNoPjXtJF5gtBZ5kAMsExAmQ8tznT8PQmQ3h9GJK",
+  "nextSteps": [
+    "Upload config/solana-token-metadata.generated.json to IPFS; update on-chain URI if needed.",
+    "Create TOKEN/USDC pool on https://raydium.io/liquidity/create/ (or Orca / Meteora).",
+    "Add liquidity (recommended $500+ USDC side) so Jupiter indexes a USD price.",
+    "Import mint in MetaMask: Solana account → Import token → paste mint address.",
+    "Price may take 15 min – 2 h after the pool is live."
+  ]
+}
