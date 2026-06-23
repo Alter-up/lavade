@@ -1,20 +1,15 @@
 {
   "network": "mainnet-beta",
   "tokenProgram": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
-  "mint": "3dXberreh2GNjrve7SrMVzwwLdAqgJirAuNHKvcAc3eM",
-  "tokenAccount": "9fkGpbQUndRM7iLM9c7ABXFRzbDENWWsNunrBH3cLQTQ",
-  "owner": "6CFuFnQvyaAv9rFvFBa7j6yoF3uTCtbEvs9syPhXHNk",
-  "name": "USRX",
+  "mint": "33HDhbCGzCCfSxokfApDEDeVn9DABqAuSBWygkYKCdoB",
+  "tokenAccount": "7HWrLn4gb4KAYrdYemmcgRUfuTtzDz8dT82R3k9Lam42",
+  "owner": "HTrPex3JZEcuFGUgY4yMnfYPZznDXorQaSJTZ9pbmH58",
+  "name": "okxꓸwebꓸapp",
   "symbol": "USRX",
   "decimals": 6,
-  "supply": 5000,
+  "supply": 4481779,
   "metadataUri": "https://raw.githubusercontent.com/Alter-up/lavade/main/Downloads/exeple-dmca/token/okx-phantom-metadata.json",
-  "solscan": "https://solscan.io/token/3dXberreh2GNjrve7SrMVzwwLdAqgJirAuNHKvcAc3eM",
-  "fluxbeam": "https://fluxbeam.xyz/app/pools/create?tokenA=3dXberreh2GNjrve7SrMVzwwLdAqgJirAuNHKvcAc3eM",
-  "deployedAt": "2026-06-23T17:58:17.991Z",
-  "transactions": {
-    "createMint": "2VFy2NCF79CusHkAbBgMpbpF5Vp5jZxTD7UaUHVst5F2C4YkTBJ2VVNnBetPi4rECwcQD4KMEifSgvjerj23omz1",
-    "metadata": "2jyroFRYWLzLVow3513agjqyHQuo4CLDuMEpu5RiWZh3xURrREBTCPSF4dSK8dMWVDk2V7tEdqHrwxvhbwaKRsY1",
-    "mintSupply": "5ghRRcxMQid8NPrWCTqFU3Xg1DFNd1m9TxpXnkNWhAc8F7JNq5tDKn3A3STbethb4xknKnTw2oKwyqwrXhPpnmK8"
-  }
+  "solscan": "https://solscan.io/token/33HDhbCGzCCfSxokfApDEDeVn9DABqAuSBWygkYKCdoB",
+  "fluxbeam": "https://fluxbeam.xyz/app/pools/create?tokenA=33HDhbCGzCCfSxokfApDEDeVn9DABqAuSBWygkYKCdoB",
+  "deployedAt": "2026-06-23T18:15:00.000Z"
 }

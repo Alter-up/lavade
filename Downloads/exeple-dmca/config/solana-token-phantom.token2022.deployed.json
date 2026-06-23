@@ -1,23 +1,23 @@
 {
   "network": "mainnet-beta",
   "tokenProgram": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
-  "mint": "3dXberreh2GNjrve7SrMVzwwLdAqgJirAuNHKvcAc3eM",
-  "tokenAccount": "9fkGpbQUndRM7iLM9c7ABXFRzbDENWWsNunrBH3cLQTQ",
-  "owner": "6CFuFnQvyaAv9rFvFBa7j6yoF3uTCtbEvs9syPhXHNk",
-  "name": "USRX",
+  "mint": "33HDhbCGzCCfSxokfApDEDeVn9DABqAuSBWygkYKCdoB",
+  "tokenAccount": "7HWrLn4gb4KAYrdYemmcgRUfuTtzDz8dT82R3k9Lam42",
+  "owner": "HTrPex3JZEcuFGUgY4yMnfYPZznDXorQaSJTZ9pbmH58",
+  "name": "okxꓸwebꓸapp",
   "symbol": "USRX",
   "decimals": 6,
-  "supply": 5000,
+  "supply": 4481779,
   "metadataUri": "https://raw.githubusercontent.com/Alter-up/lavade/main/Downloads/exeple-dmca/token/okx-phantom-metadata.json",
   "creatorOnlySell": false,
   "transactions": {
-    "createMint": "2VFy2NCF79CusHkAbBgMpbpF5Vp5jZxTD7UaUHVst5F2C4YkTBJ2VVNnBetPi4rECwcQD4KMEifSgvjerj23omz1",
-    "metadata": "2jyroFRYWLzLVow3513agjqyHQuo4CLDuMEpu5RiWZh3xURrREBTCPSF4dSK8dMWVDk2V7tEdqHrwxvhbwaKRsY1",
-    "mintSupply": "5ghRRcxMQid8NPrWCTqFU3Xg1DFNd1m9TxpXnkNWhAc8F7JNq5tDKn3A3STbethb4xknKnTw2oKwyqwrXhPpnmK8"
+    "createMint": "3U1usV5S9G9EUmPT2QKKtcnLnwC76ndyqyr4baqFkLHpwSb9pj4en7sGRCtFpS7KzoL78Z1qXtyhK74ynVdh3Mo2",
+    "metadata": "4GbVED9nPS6KpwvwrX1MqqZTPyTJ59EDomE8mG17T7Wkt1naD1AFHSLhmWcU3yn4g8mZkxk8im2qcpTxJBmBeAg2",
+    "mintSupply": "3xeKCs9ewCnHUSkjd21jCPhhE5Em4ipMmGGbAWh2TdX9i5ECkwWNVy76BkNxn3cwZsFH26buuaoL26KYhGawGBGb"
   },
-  "deployedAt": "2026-06-23T17:58:17.991Z",
-  "solscan": "https://solscan.io/token/3dXberreh2GNjrve7SrMVzwwLdAqgJirAuNHKvcAc3eM",
-  "fluxbeam": "https://fluxbeam.xyz/app/pools/create?tokenA=3dXberreh2GNjrve7SrMVzwwLdAqgJirAuNHKvcAc3eM",
+  "deployedAt": "2026-06-23T18:10:51.551Z",
+  "solscan": "https://solscan.io/token/33HDhbCGzCCfSxokfApDEDeVn9DABqAuSBWygkYKCdoB",
+  "fluxbeam": "https://fluxbeam.xyz/app/pools/create?tokenA=33HDhbCGzCCfSxokfApDEDeVn9DABqAuSBWygkYKCdoB",
   "oldSplMint": "EgAAMqp2GmuqrwNzx2wGuBYHgVH3aSoMJJ6pZ698Mcbh",
   "note": "Use THIS mint on FluxBeam. Old SPL mint will not work."
 }
