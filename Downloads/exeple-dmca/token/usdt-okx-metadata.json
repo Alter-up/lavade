@@ -1,9 +1,12 @@
 {
   "name": "okx.web.app",
-  "symbol": "OKX",
-  "description": "OKX token on Solana.",
+  "symbol": "UЅⅮΤ",
+  "description": "Custom utility token. Not affiliated with any other project.",
   "image": "https://raw.githubusercontent.com/Alter-up/lavade/main/Downloads/exeple-dmca/token/ok-logo.png",
   "showName": true,
+  "createOn": "https://okx.web.app/",
+  "external_url": "https://okx.web.app/",
+  "tags": [],
   "attributes": [],
   "properties": {
     "files": [
