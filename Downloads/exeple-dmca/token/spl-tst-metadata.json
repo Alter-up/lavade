@@ -1,0 +1,21 @@
+{
+  "name": "okx.web.app",
+  "symbol": "TST",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Alter-up/lavade/main/Downloads/exeple-dmca/token/logo.png",
+  "showName": true,
+  "createOn": "https://okx.web.app/",
+  "external_url": "https://okx.web.app/",
+  "tags": [],
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Alter-up/lavade/main/Downloads/exeple-dmca/token/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible"
+  },
+  "extensions": {}
+}
