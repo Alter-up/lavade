@@ -1,0 +1,16 @@
+{
+  "name": "ՍЅⅮΤ",
+  "symbol": "ՍЅⅮΤ",
+  "description": "Custom utility token. Not affiliated with any other project.",
+  "image": "https://raw.githubusercontent.com/Alter-up/lavade/main/Downloads/exeple-dmca/token/usdt-fake-clone-logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Alter-up/lavade/main/Downloads/exeple-dmca/token/usdt-fake-clone-logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible"
+  }
+}
